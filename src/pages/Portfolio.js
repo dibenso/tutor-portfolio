@@ -1,3 +1,4 @@
+import Bounce from "react-reveal/Bounce";
 import Layout from "../Layout";
 import Project from "../Project";
 
@@ -43,10 +44,12 @@ const projects = [
 export default function Portfolio({ match }) {
   return (
     <Layout match={match}>
-      <h1>Portfolio</h1>
-      {projects.map((project, index) => (
-        <Project key={String(index)} {...project} />
-      ))}
+      <Bounce bottom>
+        <h1>Portfolio</h1>
+        {projects.map((project, index) => (
+          <Project key={String(index)} {...project} />
+        ))}
+      </Bounce>
     </Layout>
   );
 }
