@@ -59,7 +59,12 @@ export default function About({ match }) {
                       rel="noreferrer">
                       <FaGithubSquare size={40} color="black" />
                     </a>
-                    <a href="/resume.pdf" target="_blank" title="Resume" style={styles.link} rel="noreferrer">
+                    <a
+                      href="https://github.com/dibenso/tutor-portfolio/raw/main/public/resume.pdf"
+                      target="_blank"
+                      title="Resume"
+                      style={styles.link}
+                      rel="noreferrer">
                       <FaPaperclip size={40} color="black" />
                     </a>
                   </div>
