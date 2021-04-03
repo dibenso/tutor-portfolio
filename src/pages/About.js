@@ -30,7 +30,10 @@ export default function About({ match }) {
               <hr />
               <Row>
                 <Col lg={6}>
-                  <img src="/images/profilePicture.jpg" alt="Profile" />
+                  <img
+                    src="https://raw.githubusercontent.com/dibenso/tutor-portfolio/main/public/images/profilePicture.jpg"
+                    alt="Profile"
+                  />
                   <div style={{ marginTop: 20 }}>
                     <a
                       href="https://www.linkedin.com/in/carolineablynch/"

@@ -9,7 +9,7 @@ const styles = {
 export default function Project({ screenshot, title, description, appLink, repoLink }) {
   return (
     <Jumbotron style={styles.jumbo}>
-      <img src={`/images/${screenshot}`} alt={title} style={{ width: "80%" }} />
+      <img src={screenshot} alt={title} style={{ width: "80%" }} />
       <h3 style={{ marginTop: 20 }}>
         <b>{title}</b>
       </h3>
