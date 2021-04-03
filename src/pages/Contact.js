@@ -41,7 +41,7 @@ export default function Contact({ match }) {
             onSubmit={async (values, { setSubmitting }) => {
               setShow(false);
               try {
-                await fetch("", {
+                await fetch("https://damp-fjord-38583.herokuapp.com/api/contacts", {
                   method: "POST",
                   headers: {
                     "Content-Type": "application/json"
@@ -67,7 +67,7 @@ export default function Contact({ match }) {
                 )}
                 {isSubmitting ? (
                   <div>
-                    <Loader type="Puff" color="white" height={100} width={100} />
+                    <Loader type="Puff" color="black" height={100} width={100} />
                     <h2>Submitting Your Information...</h2>
                   </div>
                 ) : (
