@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tutor-portfolio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/tutor-portfolio/static/js/main.5378d1eb.chunk.js",
+    "main.js.map": "/tutor-portfolio/static/js/main.5378d1eb.chunk.js.map",
+    "runtime-main.js": "/tutor-portfolio/static/js/runtime-main.31d3c9a1.js",
+    "runtime-main.js.map": "/tutor-portfolio/static/js/runtime-main.31d3c9a1.js.map",
+    "static/css/2.658248ec.chunk.css": "/tutor-portfolio/static/css/2.658248ec.chunk.css",
+    "static/js/2.e3421be5.chunk.js": "/tutor-portfolio/static/js/2.e3421be5.chunk.js",
+    "static/js/2.e3421be5.chunk.js.map": "/tutor-portfolio/static/js/2.e3421be5.chunk.js.map",
+    "static/js/3.72167cb7.chunk.js": "/tutor-portfolio/static/js/3.72167cb7.chunk.js",
+    "static/js/3.72167cb7.chunk.js.map": "/tutor-portfolio/static/js/3.72167cb7.chunk.js.map",
+    "index.html": "/tutor-portfolio/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/tutor-portfolio/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/tutor-portfolio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e3421be5.chunk.js.LICENSE.txt": "/tutor-portfolio/static/js/2.e3421be5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31d3c9a1.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.e3421be5.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5378d1eb.chunk.js"
+  ]
+}
