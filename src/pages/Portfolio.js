@@ -38,6 +38,13 @@ const projects = [
     description: "Put your coding skills to the test!",
     appLink: "",
     repoLink: ""
+  },
+  {
+    screenshot: "https://raw.githubusercontent.com/dibenso/tutor-portfolio/main/public/images/weather.jpg",
+    title: "Weather Dashboard",
+    description: "See the weather outlook for multiple cities",
+    appLink: "",
+    repoLink: ""
   }
 ];
 
